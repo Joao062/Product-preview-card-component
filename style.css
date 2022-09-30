@@ -32,7 +32,7 @@ main{
 #conteudoDoProduto h5{
     margin-bottom: 0;
     font-family: 'Montserrat', sans-serif;
-    opacity: 0.6;
+    opacity: 0.5;
 }
 
 #conteudoDoProduto p {
@@ -42,11 +42,12 @@ main{
     
 }
 
-#conteudoDoProduto h2{
+#conteudoDoProduto h1{
     font-family: 'Fraunces', serif;
     font-size: 30px;
     margin-top: 5px;
     margin-bottom: 0px;
+    font-weight: bold;
 }
 
 #perfumeFoto{
